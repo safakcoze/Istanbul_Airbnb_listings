@@ -10,3 +10,5 @@ And also Hexagons are great for summarizing points easily. In this study, it sho
 
 Data used: Inside Airbnb - listings.csv.gz
 Tools used: Kepler.gl, Adobe Ps
+
+![Airbnb_IST_Listings](https://github.com/safakcoze/Istanbul_Airbnb_listings/assets/139701981/b5cd818b-c610-4532-bc3e-abaa23b84694)
